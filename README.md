@@ -1,5 +1,6 @@
 # Bright
 Simple brightness controlling GUI for external monitors using ddcutil
+Will discorover the monitors on it's own and provide the option to set their brightness from a GUI instead of the fucking hardware buttons ...
 
 # Requirements
  - Require Python3.12+ (But would probably run on 3.5+)
