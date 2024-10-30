@@ -18,4 +18,6 @@ pip3 install tkinter
 # Install Bright
 sudo cp ./bright /bin/bright
 sudo chmod 777 /bin/bright
+# Run
+bright
 ```
