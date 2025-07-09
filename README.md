@@ -1,3 +1,5 @@
+# Are you tired of manually clicking you adverserial hardware buttons on your monitor to adjust you brightness? I was! Now, you can simply run this very simple GUI app and do it in a nice, cozy GUI!
+
 # Bright
 Simple brightness controlling GUI for external monitors using ddcutil. <br>
 Will discorover the monitors on it's own and provide the option to set their brightness from a GUI instead of the fucking hardware buttons ...
